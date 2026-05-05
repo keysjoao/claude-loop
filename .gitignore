@@ -1,0 +1,12 @@
+# Logs gerados pelos overnights
+overnight-output.log
+OVERNIGHT-LOG.md
+OVERNIGHT-PLAN.md
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
