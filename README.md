@@ -1,5 +1,7 @@
 <div align="center">
 
+![Claude Loop](assets/cover.png)
+
 # 🌙 Claude Loop
 
 ### Faça o Claude Code trabalhar no seu projeto enquanto você dorme.
